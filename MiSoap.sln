@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MiSoap", "MiSoap\", "{BE2532A3-F6AD-499D-9984-E3F08F749597}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51566"
+		Debug.AspNetCompiler.PhysicalPath = "MiSoap\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51566\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51566"
+		Release.AspNetCompiler.PhysicalPath = "MiSoap\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51566\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51566"
+		SlnRelativePath = "MiSoap\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MipruebaconService", "MipruebaconService\MipruebaconService.csproj", "{28E8F61A-38C4-45EC-A8B0-A6651D8C1A60}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BE2532A3-F6AD-499D-9984-E3F08F749597} = {BE2532A3-F6AD-499D-9984-E3F08F749597}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE2532A3-F6AD-499D-9984-E3F08F749597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2532A3-F6AD-499D-9984-E3F08F749597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2532A3-F6AD-499D-9984-E3F08F749597}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2532A3-F6AD-499D-9984-E3F08F749597}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{28E8F61A-38C4-45EC-A8B0-A6651D8C1A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E8F61A-38C4-45EC-A8B0-A6651D8C1A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E8F61A-38C4-45EC-A8B0-A6651D8C1A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E8F61A-38C4-45EC-A8B0-A6651D8C1A60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FA977CD-7FD7-4C6E-AC78-D03CFD75BF75}
+	EndGlobalSection
+EndGlobal

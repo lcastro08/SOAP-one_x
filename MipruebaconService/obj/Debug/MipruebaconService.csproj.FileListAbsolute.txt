@@ -1,0 +1,10 @@
+C:\Users\Luis Castro\source\repos\MiSoap\MipruebaconService\bin\Debug\MipruebaconService.exe.config
+C:\Users\Luis Castro\source\repos\MiSoap\MipruebaconService\bin\Debug\MipruebaconService.exe
+C:\Users\Luis Castro\source\repos\MiSoap\MipruebaconService\bin\Debug\MipruebaconService.pdb
+C:\Users\Luis Castro\source\repos\MiSoap\MipruebaconService\obj\Debug\MipruebaconService.csprojAssemblyReference.cache
+C:\Users\Luis Castro\source\repos\MiSoap\MipruebaconService\obj\Debug\MipruebaconService.Form1.resources
+C:\Users\Luis Castro\source\repos\MiSoap\MipruebaconService\obj\Debug\MipruebaconService.Properties.Resources.resources
+C:\Users\Luis Castro\source\repos\MiSoap\MipruebaconService\obj\Debug\MipruebaconService.csproj.GenerateResource.cache
+C:\Users\Luis Castro\source\repos\MiSoap\MipruebaconService\obj\Debug\MipruebaconService.csproj.CoreCompileInputs.cache
+C:\Users\Luis Castro\source\repos\MiSoap\MipruebaconService\obj\Debug\MipruebaconService.exe
+C:\Users\Luis Castro\source\repos\MiSoap\MipruebaconService\obj\Debug\MipruebaconService.pdb
